@@ -13,9 +13,6 @@
 
 ### PROJECT TITLE: "Enhancing Student Well-being: A Machine Learning Approach to Predicting and Mitigating Mental Health Challenges in University Settings"
 Welcome to my personal project.
-
-This project aims to leverage machine learning techniques to predict and understand students' academic performance based on demographic and mental health information.
-
 ### Problem Statement
 
 This project seeks to address the rising issue of mental health challenges among university students. By applying machine learning techniques to a dataset encompassing demographic, academic, and mental health information, the goal is to predict and understand mental health conditions. 
