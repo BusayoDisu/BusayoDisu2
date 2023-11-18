@@ -21,4 +21,4 @@ This project seeks to address the rising issue of mental health challenges among
 The ultimate aim is to derive actionable insights that can positively impact the well-being and academic success of students.
 
 ### Link to the project 
-https://colab.research.google.com/drive/1sv87voarh2Sp3CC24VN-ybsGjt-z9GE8#scrollTo=Kqj8haSXSSVW
+https://colab.research.google.com/drive/10SPYX3ll0r88XC5ZkLiLxPNWPsmfDWeH
